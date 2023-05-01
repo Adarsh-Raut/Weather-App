@@ -1,6 +1,9 @@
 
 # Weather App using Node and Express
 
+![Screenshot (38)](https://user-images.githubusercontent.com/86641528/235443263-7e6def5e-f2ce-44d2-be5c-ee707883a786.png)
+
+
 This weather app provides you with temperature and weather details about the city you entered in the search bar.
 It gets the weather data from -->
 

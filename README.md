@@ -22,6 +22,6 @@ After doing this you can run command -->
     node app.js
 to run the server.
 
-You can check website at 
+You can check your website on browser at 
 
 localhost:3000
